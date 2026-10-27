@@ -13,11 +13,10 @@ Losing good employees is expensive. I built this dashboard to prove a simple poi
 
 ## The Problem: The Hidden Damage of Attrition
 Ignoring why people leave triggers four major issues:
-* ** Wasted Money:** Recruitment and training costs quickly drain company budgets.
-* ** More Mistakes:** New hires face a steep learning curve, leading to more operational errors.
-* ** Slower Work:** Short-staffed teams face bottlenecks, burnout, and delayed projects.
-* ** Broken Loyalty:** Watching peers quit lowers morale and triggers a domino effect of resignations.
-
+* *Wasted Money:* Recruitment and training costs quickly drain company budgets.
+* *More Mistakes:* New hires face a steep learning curve, leading to more operational errors.
+* *Slower Work:* Short-staffed teams face bottlenecks, burnout, and delayed projects.
+* *Broken Loyalty:* Watching peers quit lowers morale and triggers a domino effect of resignations.
 
 ##  What the Data Shows
 
