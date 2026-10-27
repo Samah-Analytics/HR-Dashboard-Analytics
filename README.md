@@ -23,12 +23,14 @@ Ignoring why people leave triggers four major issues:
 
 ### 1. Pay & Job Satisfaction
 ![Attrition by Salary](Assets/Attrition%20by%20Salary.png)
-![Attrition by Job Roll & Job Satisfaction](Assets/Attrition%20by%20Job%20Roll%20%26%20Job%20Satisfaction.png)
-* **Insight:** Pinpoints exact roles where low pay and poor satisfaction overlap, showing leadership who is at risk of quitting next.
+
+![Attrition by Job Roll & Job Satisfaction](Assets/Attrition by job_Satisfaction.png)
+
+* **Insight:** shows exact roles where low pay and poor satisfaction overlap, showing leadership who is at risk of quitting next.
 
 ### 2. Work Environment & Departments
 ![Attrition by Department](Assets/Attrition%20by%20Department.png)
-![Attrition by Gender](Assets/Attrition%20by%20Gender.png)
+
 * **Insight:** Shows that turnover isn't random, it clusters around specific departments, revealing localized management or cultural issues.
 
 
